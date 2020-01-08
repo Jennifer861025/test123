@@ -1,0 +1,30 @@
+header .navbar-light .navbar-nav .nav-link.nav-link-4{
+    color: #fff;
+}
+.page {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    padding-top: 90px;
+    background-color: #262628;
+    overflow-y: hidden;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form{
+    width: 50vw;
+    height: 60vh;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    outline: 1px solid black;
+}
+
+textarea{
+    outline: 1px solid black;
+}
